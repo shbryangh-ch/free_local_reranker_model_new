@@ -66,7 +66,7 @@ pip install fastapi uvicorn transformers torch
 # 🚀 啟動服務
 
 ```bash
-python -m uvicorn rerank_server:app --host 0.0.0.0 --port 8010
+python -m uvicorn BAAIbge-reranker:app --host 0.0.0.0 --port 8010
 ```
 
 成功後會看到：
