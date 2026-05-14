@@ -43,8 +43,8 @@ LLM / Answer Generation
 ## 1️⃣ 建立 Conda 環境（建議）
 
 ```bash
-conda create -n reranker python=3.10 -y
-conda activate reranker
+conda create -n BAAIbge-reranker python=3.10 -y
+conda activate BAAIbge-reranker
 ```
 
 ---
