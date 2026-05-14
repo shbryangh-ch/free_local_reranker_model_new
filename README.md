@@ -82,7 +82,7 @@ Uvicorn running on http://0.0.0.0:8001
 ## Request
 
 ```json
-POST http://127.0.0.1:8001/rerank
+POST http://127.0.0.1:8010/rerank #8010可替換成你電腦上目前沒有在用的port
 
 {
   "query": "what is AI",
