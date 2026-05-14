@@ -66,13 +66,13 @@ pip install fastapi uvicorn transformers torch
 # 🚀 啟動服務
 
 ```bash
-python -m uvicorn rerank_server:app --host 0.0.0.0 --port 8001
+python -m uvicorn rerank_server:app --host 0.0.0.0 --port 8010
 ```
 
 成功後會看到：
 
 ```
-Uvicorn running on http://0.0.0.0:8001
+Uvicorn running on http://0.0.0.0:8010
 ```
 
 ---
@@ -114,7 +114,7 @@ POST http://127.0.0.1:8010/rerank #8010可替換成你電腦上目前沒有在�
 
 可將此 API 接到 Dify rerank node：
 
-* URL: `http://your-ip:8001/rerank`
+* URL: `http://your-ip:8010/rerank`
 * Method: POST
 * Body JSON:
 
