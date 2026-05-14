@@ -121,7 +121,7 @@ POST http://127.0.0.1:8010/rerank #8010可替換成你電腦上目前沒有在�
 <img width="407" height="290" alt="圖片" src="https://github.com/user-attachments/assets/551b0346-191e-4732-ac23-d4de1e84cb5a" />
 
 * Server url: `http://your-ip:8010/rerank`
-如果你的自託管dify是裝在dify上面，your-ip用host.docker.internal
+如果你的自託管dify是裝在docker上面，your-ip用host.docker.internal
 
 ---
 
