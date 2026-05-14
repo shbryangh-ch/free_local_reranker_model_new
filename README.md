@@ -116,7 +116,7 @@ POST http://127.0.0.1:8010/rerank #8010可替換成你電腦上目前沒有在�
 可將此 API 接到 Dify 的模型供應商裡面的Local AI：
 <img width="676" height="486" alt="圖片" src="https://github.com/user-attachments/assets/fa3a5ec1-6df9-48df-93ee-731c05260589" />
 
-點按新增模型
+點按新增模型，點選rerank
 
 
 <img width="407" height="290" alt="圖片" src="https://github.com/user-attachments/assets/551b0346-191e-4732-ac23-d4de1e84cb5a" />
